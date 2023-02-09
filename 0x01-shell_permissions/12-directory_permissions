@@ -1,0 +1,2 @@
+#!/bin/bash
+mksir -m 751 my_dir
