@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$input" | tr 'a-zA-Z' 'n-za-mN-ZA-M'
+tr 'A-ZA-z' 'n-ZA-Mn-za-m'
